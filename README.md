@@ -27,7 +27,7 @@ source .venv/bin/activate
 Install
 
 ```bash
-pip install -e .
+pip install -r requirements.txt
 ```
 
 Set environment for OPENAI API Key, optionally for Lanchain API for langsmith
